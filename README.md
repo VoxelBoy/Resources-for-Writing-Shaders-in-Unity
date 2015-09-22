@@ -3,7 +3,7 @@ For the UNITE Boston 2015 talk titled Writing Shaders: YOU can do it!
 
 A list of great resources when learning to write shaders in Unity.
 
-* [Unity Documentation - Shader Reference](file:///Applications/Unity%205.2/Documentation/en/Manual/SL-Reference.html)
+* [Unity Documentation - Shader Reference](http://docs.unity3d.com/Manual/SL-Reference.html)
 * [CG Programming in Unity](https://en.wikibooks.org/wiki/Cg_Programming/Unity)
 * [The CG Tutorial by Nvidia](http://http.developer.nvidia.com/CgTutorial/cg_tutorial_chapter01.html)
 * [Real-time Rendering](http://www.realtimerendering.com)
