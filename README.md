@@ -1,6 +1,8 @@
 # Resources-for-Writing-Shaders-in-Unity
 For the UNITE Boston 2015 talk titled Writing Shaders: YOU can do it!
 
+[Download Unity Project](https://dl.dropboxusercontent.com/u/561110/ShaderTalk%20Unity%20Project.zip) (5.2) with all the shaders mentioned during the talk.
+
 A list of great resources when learning to write shaders in Unity.
 
 * [Unity Documentation - Shader Reference](http://docs.unity3d.com/Manual/SL-Reference.html)
