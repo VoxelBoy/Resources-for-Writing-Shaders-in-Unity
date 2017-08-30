@@ -3,7 +3,7 @@ For the UNITE Boston 2015 talk titled Writing Shaders: YOU can do it!
 
 [Watch the talk on YouTube](https://www.youtube.com/watch?v=epixwRw80MM)
 
-[Download Unity Project](https://dl.dropboxusercontent.com/u/561110/ShaderTalk%20Unity%20Project.zip) (5.2) with all the shaders mentioned during the talk.
+[Download Unity Project](https://www.dropbox.com/s/ofde3puq9j92p96/ShaderTalk%20Unity%20Project.zip?dl=1) (5.2) with all the shaders mentioned during the talk.
 
 A list of great resources when learning to write shaders in Unity.
 
